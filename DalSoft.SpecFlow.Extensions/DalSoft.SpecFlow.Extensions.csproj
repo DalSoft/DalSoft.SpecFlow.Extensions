@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+
+    <AssemblyName>DalSoft.SpecFlow.Extensions</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>DalSoft.SpecFlow.Extensions</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <PackageReleaseNotes>WIP</PackageReleaseNotes>
+    <Authors>DalSoft</Authors>
+    <Description></Description>
+    <PackageTags></PackageTags>
+    <Copyright></Copyright>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/DalSoft/DalSoft.RestClient/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/DalSoft/DalSoft.RestClient</PackageProjectUrl>
+    <PackageIconUrl>http://dalsoft.co.uk/images/icon.png</PackageIconUrl>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="xunit" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>
